@@ -85,7 +85,7 @@ ProtectedPay is a comprehensive DeFi platform on the Sepolia Testnet using kalp 
 ## Video Demo
 
 Watch ProtectedPay in action:
-[Demo Video](video_link)
+[Demo Video]
 
 ## Smart Contract
 
