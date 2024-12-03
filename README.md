@@ -98,7 +98,7 @@ Deployed on Sepolia Testnet using Kalp Studio:
 ## Support
 
 For questions or issues:
-- Email: tanishqgupta322@gmail.com
+- Email: siddheshspatankar@gmail.com
 - Open an issue in this repository
 
 ---
